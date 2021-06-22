@@ -1,2 +1,2 @@
-# ML_Project_Template
-Basic template framework for ML projects.
+# Categorical Features Challenge
+Challenge on Kaggle.
