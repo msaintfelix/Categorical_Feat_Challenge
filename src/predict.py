@@ -1,6 +1,7 @@
 import os
 import joblib
 import pandas as pd
+import numpy as np
 
 MODEL_PATH = os.environ.get("MODEL_PATH")
 TEST_DATA = os.environ.get("TEST_DATA")
