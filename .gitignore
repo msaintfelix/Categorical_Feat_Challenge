@@ -1,4 +1,5 @@
 # My ignored files
+.idea/
 
 # input data and models
 input/
